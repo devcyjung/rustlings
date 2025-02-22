@@ -21,4 +21,11 @@ fn main() {
     println!("The file of this exercise is `exercises/00_intro/intro1.rs`. Have a look!");
     println!("The current exercise path will be always shown under the progress bar.");
     println!("You can click on the path to open the exercise file in your editor.");
+    println!("       Welcome to...                      ");
+    println!("                 _   _ _                  ");
+    println!("  _ __ _   _ ___| |_| (_)_ __   __ _ ___  ");
+    println!(" | '__| | | / __| __| | | '_ \\ / _` / __| ");
+    println!(" | |  | |_| \\__ \\ |_| | | | | | (_| \\__ \\ ");
+    println!(" |_|   \\__,_|___/\\__|_|_|_| |_|\\__, |___/ ");
+    println!("                               |___/      ");
 }
